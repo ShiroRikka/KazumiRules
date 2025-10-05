@@ -49,11 +49,18 @@
     "lastUpdate": 1736557646000
   },
   {
-    "name": "dlma",
+    "name": "bobodm",
     "version": "1.0",
     "useNativePlayer": true,
     "author": "",
-    "lastUpdate": 1747547289000
+    "lastUpdate": 1759661407000
+  },
+  {
+    "name": "dlma",
+    "version": "1.1",
+    "useNativePlayer": true,
+    "author": "",
+    "lastUpdate": 1759660892000
   },
   {
     "name": "DM84",
@@ -75,6 +82,13 @@
     "useNativePlayer": true,
     "author": "",
     "lastUpdate": 1758197918000
+  },
+  {
+    "name": "hfkzm",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "author": "",
+    "lastUpdate": 1759661206000
   },
   {
     "name": "libvio",
@@ -110,13 +124,6 @@
     "useNativePlayer": true,
     "author": "",
     "lastUpdate": 1754990524000
-  },
-  {
-    "name": "qimi",
-    "version": "1.2",
-    "useNativePlayer": true,
-    "author": "",
-    "lastUpdate": 1753555391000
   },
   {
     "name": "qkan9",
@@ -169,10 +176,10 @@
   },
   {
     "name": "ylsp",
-    "version": "1.0",
+    "version": "1.1",
     "useNativePlayer": true,
     "author": "",
-    "lastUpdate": 1759660632000
+    "lastUpdate": 1759660829000
   },
   {
     "name": "zkk79",
