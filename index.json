@@ -28,13 +28,6 @@
     "lastUpdate": 1758092260000
   },
   {
-    "name": "ant",
-    "version": "0.0.2",
-    "useNativePlayer": true,
-    "author": "",
-    "lastUpdate": 1736557646000
-  },
-  {
     "name": "aowu",
     "version": "1.0",
     "useNativePlayer": true,
@@ -61,6 +54,13 @@
     "useNativePlayer": true,
     "author": "",
     "lastUpdate": 1760343314000
+  },
+  {
+    "name": "hfkzm",
+    "version": "1.1",
+    "useNativePlayer": true,
+    "author": "",
+    "lastUpdate": 1765458559000
   },
   {
     "name": "libvio",
