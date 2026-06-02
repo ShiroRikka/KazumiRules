@@ -32,6 +32,14 @@
     "lastUpdate": 1769573721000
   },
   {
+    "name": "ciyuancheng",
+    "version": "2.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1780406571000
+  },
+  {
     "name": "DM84",
     "version": "1.4",
     "useNativePlayer": true,
@@ -70,14 +78,6 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1780292876000
-  },
-  {
-    "name": "LMM",
-    "version": "2.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1779322871000
   },
   {
     "name": "mwcy",
