@@ -80,6 +80,14 @@
     "lastUpdate": 1780292876000
   },
   {
+    "name": "LMM",
+    "version": "2.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1789449553000
+  },
+  {
     "name": "mgnacg",
     "version": "1.0",
     "useNativePlayer": true,
@@ -113,11 +121,11 @@
   },
   {
     "name": "omofun",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1789441546000
+    "lastUpdate": 1789452363000
   },
   {
     "name": "sorani",
